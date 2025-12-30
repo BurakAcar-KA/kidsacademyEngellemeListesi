@@ -71,6 +71,7 @@
     "https://www.chatroulette.com/*",
     "https://chatroulette.com/*",
     "https://www.9gag.com/*",
-    "https://9gag.com/*"
+    "https://9gag.com/*",
+    "https://*.io/*",
   ]
 }
